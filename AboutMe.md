@@ -3,7 +3,6 @@
 - Nowadays, I am getting into more data core concepts with Python, SQL, PowerBI.
 - 🌱 I’m currently learning "Applied Data Science" offered by MIT Professional Education in collaboration with Great Learning.
 - 💞️ I’m looking to collaborate on Data analysis and machine learning projects
-- 📫 How to reach me - suhani.patel@gmail.com
 - ⚡ Fun fact: I love nature, travelling, and planning trips with family. I love the smell of wet earth after it rains (formally, called Petrichor).
 
 <!---
